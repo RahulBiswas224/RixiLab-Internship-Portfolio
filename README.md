@@ -31,8 +31,6 @@ Below is the directory of the **6 mandatory projects** completed during this ten
 
 ## 📁 Project Directory
 
-*Click on the "🔗 View Repository" links to navigate directly to the standalone project repositories on my GitHub.*
-
 ### Phase 1: Foundation & Core Concepts (Weeks 1-4)
 During the first four weeks, I am required to complete one foundational full-stack project per week.
 
