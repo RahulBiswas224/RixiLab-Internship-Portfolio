@@ -36,24 +36,24 @@ During the first four weeks, I am required to complete one foundational full-sta
 
 | Week | Project Title / Description | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Week 1** | **Project Task Manager (FS07P1A)**<br> *A robust, backend-driven To-Do List application built with Node.js, Express, MongoDB, and EJS, strictly following the MVC architecture and deployed on AWS EC2.* | ✅ Completed | [🔗 View Repository](https://github.com/RahulBiswas224/fs07p1a__TaskManager) |
-| **Week 2** | **Portfolio Ecosystem (FS07P2A)**<br> *A full-stack, production-ready portfolio platform featuring a CMS backend, JWT authentication, BullMQ email queues, Redis caching, and a dark minimal React frontend deployed to Vercel and Render.* | ✅ Completed | [🔗 View Repository](https://github.com/RahulBiswas224/PortfolioEcosystem.git) |
-| **Week 3** | **Dynamic-Bloging-Platform (FS07P3A)**<br> *A dynamic blogging platform built with React 19, Express & MongoDB — write, publish, search, like, and comment. Docker-ready.* |  ✅ Completed | [🔗 View Repository](https://github.com/RahulBiswas224/fs07p3a_Dynamic-Bloging-Platform.git) |
-| **Week 4** | **[ ]**<br> ** | ⏳ Pending | [🔗 View Repository](#) |
+| **Week 1** | **Project Task Manager (FS07P1A)**<br> *A robust, backend-driven To-Do List application built with Node.js, Express, MongoDB, and EJS, strictly following the MVC architecture and deployed on AWS EC2.* | ✅ Completed | [View Repository](https://github.com/RahulBiswas224/fs07p1a__TaskManager) |
+| **Week 2** | **Portfolio Ecosystem (FS07P2A)**<br> *A full-stack, production-ready portfolio platform featuring a CMS backend, JWT authentication, BullMQ email queues, Redis caching, and a dark minimal React frontend deployed to Vercel and Render.* | ✅ Completed | [View Repository](https://github.com/RahulBiswas224/PortfolioEcosystem.git) |
+| **Week 3** | **Dynamic-Bloging-Platform (FS07P3A)**<br> *A dynamic blogging platform built with React 19, Express & MongoDB — write, publish, search, like, and comment. Docker-ready.* |  ✅ Completed | [View Repository](https://github.com/RahulBiswas224/fs07p3a_Dynamic-Bloging-Platform.git) |
+| **Week 4** | **[ ]**<br> ** | ⏳ Pending | [View Repository](#) |
 
 ### Phase 2: Advanced Integration (Weeks 5-6)
 Weeks 5 and 6 are combined to focus on a single, more complex intermediate project requiring deeper architectural planning.
 
 | Week | Project Title / Description | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Week 5-6** | **[ ]**<br> ** | ⏳ Pending | [🔗 View Repository](#) |
+| **Week 5-6** | **[ ]**<br> ** | ⏳ Pending | [View Repository](#) |
 
 ### Phase 3: Capstone Development (Weeks 7-8)
 The final two weeks are dedicated to a comprehensive capstone project combining all learned skills into an advanced deployment.
 
 | Week | Project Title / Description | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Week 7-8** | **[ ]**<br> ** | ⏳ Pending | [🔗 View Repository](#) |
+| **Week 7-8** | **[ ]**<br> ** | ⏳ Pending | [View Repository](#) |
 
 ---
 
