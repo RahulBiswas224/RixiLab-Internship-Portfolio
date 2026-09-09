@@ -16,53 +16,55 @@
 
 ---
 
-## 📌 Internship Overview
+## Internship Overview
 
 *   **Company:** Rixi Lab Technologies
 *   **Role:** Full Stack Development Intern
 *   **Intern ID:** RL26080701
 *   **Duration:** 8 Weeks (August 1, 2026 - September 2026)
 
-This repository serves as a centralized directory for all the projects developed during my 8-week online internship with Rixi Lab Technologies. The program is structured to range from basic to advanced development tasks, requiring strict weekly submissions. 
+This repository serves as a centralized directory for all the projects developed during my 8-week online internship with Rixi Lab Technologies. The program is structured to range from basic to advanced development tasks, requiring strict weekly submissions.
 
 Below is the directory of the **6 mandatory projects** completed during this tenure.
 
 ---
 
-## 📁 Project Directory
+## Project Directory
 
 ### Phase 1: Foundation & Core Concepts (Weeks 1-4)
 During the first four weeks, I am required to complete one foundational full-stack project per week.
 
 | Week | Project Title / Description | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Week 1** | **Project Task Manager (FS07P1A)**<br> *A robust, backend-driven To-Do List application built with Node.js, Express, MongoDB, and EJS, strictly following the MVC architecture and deployed on AWS EC2.* | ✅ Completed | [View Repository](https://github.com/RahulBiswas224/fs07p1a__TaskManager) |
-| **Week 2** | **Portfolio Ecosystem (FS07P2A)**<br> *A full-stack, production-ready portfolio platform featuring a CMS backend, JWT authentication, BullMQ email queues, Redis caching, and a dark minimal React frontend deployed to Vercel and Render.* | ✅ Completed | [View Repository](https://github.com/RahulBiswas224/PortfolioEcosystem.git) |
-| **Week 3** | **Dynamic-Bloging-Platform (FS07P3A)**<br> *A dynamic blogging platform built with React 19, Express & MongoDB — write, publish, search, like, and comment. Docker-ready.* |  ✅ Completed | [View Repository](https://github.com/RahulBiswas224/fs07p3a_Dynamic-Bloging-Platform.git) |
-| **Week 4** | **E Commerce (fs07p4a)**<br> *Dynamic E-commerce Website using MERN Stack. Features user authentication, product management, cart handling, and payment integration.* |  ✅ Completed  | [View Repository](https://github.com/RahulBiswas224/fs07p4a_E-Commerce.git) |
+| **Week 1** | **Project Task Manager (FS07P1A)**<br> *A robust, backend-driven To-Do List application built with Node.js, Express, MongoDB, and EJS, strictly following the MVC architecture and deployed on AWS EC2.* | Completed | [View Repository](https://github.com/RahulBiswas224/fs07p1a__TaskManager) |
+| **Week 2** | **Portfolio Ecosystem (FS07P2A)**<br> *A full-stack, production-ready portfolio platform featuring a CMS backend, JWT authentication, BullMQ email queues, Redis caching, and a dark minimal React frontend deployed to Vercel and Render.* | Completed | [View Repository](https://github.com/RahulBiswas224/PortfolioEcosystem.git) |
+| **Week 3** | **Dynamic-Bloging-Platform (FS07P3A)**<br> *A dynamic blogging platform built with React 19, Express & MongoDB — write, publish, search, like, and comment. Docker-ready.* | Completed | [View Repository](https://github.com/RahulBiswas224/fs07p3a_Dynamic-Bloging-Platform.git) |
+| **Week 4** | **E Commerce (fs07p4a)**<br> *Dynamic E-commerce Website using MERN Stack. Features user authentication, product management, cart handling, and payment integration.* | Completed | [View Repository](https://github.com/RahulBiswas224/fs07p4a_E-Commerce.git) |
 
 ### Phase 2: Advanced Integration (Weeks 5-6)
 Weeks 5 and 6 are combined to focus on a single, more complex intermediate project requiring deeper architectural planning.
 
 | Week | Project Title / Description | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Week 5-6** | **[ ]**<br> ** | ⏳ Pending | [View Repository](#) |
+| **Week 5-6** | **FoodExpress (FS07P5A)**<br> *A full-stack food delivery web app where users can browse restaurants, explore menus, place orders, pay online, and track deliveries in real time — built with React, Node.js/Express, MongoDB, Socket.io for live order tracking, and Razorpay payments, with an automated Jest/Supertest suite.* | Completed | [View Repository](https://github.com/RahulBiswas224/fs07p5a_MernFoodDelivery.git) |
 
 ### Phase 3: Capstone Development (Weeks 7-8)
 The final two weeks are dedicated to a comprehensive capstone project combining all learned skills into an advanced deployment.
 
 | Week | Project Title / Description | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Week 7-8** | **[ ]**<br> ** | ⏳ Pending | [View Repository](#) |
+| **Week 7-8** | **[ ]**<br> ** | Pending | [View Repository](#) |
 
 ---
 
-## 🛠️ Skills & Technologies Acquired
+## Skills & Technologies Acquired
 
 Throughout this internship, I am gaining practical industry experience by developing real-world projects under the guidance of experienced mentors. Key competencies developed include:
 
-*   **Frontend Development:** Server-Side Rendering (SSR) via EJS, responsive UI design, and dynamic rendering.
+*   **Frontend Development:** Server-Side Rendering (SSR) via EJS, React (including real-time UI with Socket.io), responsive UI design, and dynamic rendering.
 *   **Backend Engineering:** Node.js, Express routing, RESTful API principles, and MVC (Model-View-Controller) architectural structuring.
 *   **Database Management:** MongoDB and Mongoose (ODM) schema definition, optimized querying, and CRUD operations.
-*   **Cloud & Deployment:** Provisioning AWS EC2 (Ubuntu) instances, configuring Security Groups, and utilizing PM2 for continuous background process management.
-*   **Agile Execution:** Adhering to strict weekly deadlines and project submission guidelines via the Rixi Lab dashboard
+*   **Real-Time & Payments:** WebSocket-based live order tracking with Socket.io, and secure payment integration (Razorpay) with server-side signature verification.
+*   **Testing:** Automated backend test coverage using Jest and Supertest.
+*   **Cloud & Deployment:** Provisioning AWS EC2 (Ubuntu) instances, configuring Security Groups, utilizing PM2 for continuous background process management, and deploying decoupled apps across Vercel, Render, and MongoDB Atlas.
+*   **Agile Execution:** Adhering to strict weekly deadlines and project submission guidelines via the Rixi Lab dashboard.
